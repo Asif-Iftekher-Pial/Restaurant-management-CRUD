@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "Nihil",
+      "email": "fozobuq@mailinator.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Placeat praesentium",
+      "email": "wymopymaky@mailinator.com",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Alea Zamora",
+      "address": "Deserunt ipsa lauda",
+      "contact": 36,
+      "id": 1
+    },
+    {
+      "name": "Cameron Walter",
+      "address": "In asperiores distin",
+      "contact": 99,
+      "id": 2
+    },
+    {
+      "name": "Cara Maldonado",
+      "address": "Eos vel ut iusto te",
+      "contact": 92,
+      "id": 3
+    },
+    {
+      "name": "Lamar Henry",
+      "address": "Nihil nostrud incidu",
+      "contact": 8,
+      "id": 4
+    }
+  ]
+}
